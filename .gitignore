@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+settings.json
+desktop.ini
+Thumbs.db
+tools/
